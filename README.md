@@ -369,18 +369,13 @@ $ cat learning.log
 ### `LET'S BUILD SOMETHING INTERESTING.`
 
 <br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harish-s-57802a327)
-<br>
+
 [![GitHub](https://img.shields.io/badge/EXPLORE_MY_WORK-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harishs20?tab=repositories)
 
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=harishs20&style=flat-square&color=0D1117&label=PROFILE+VISITORS">
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=100&section=footer"/>
 
 </div>
